@@ -1,6 +1,7 @@
 # nvim-configuration
 
 # tree of project
+```bash
 nvim
 ├── init.lua
 ├── lua
@@ -27,3 +28,4 @@ nvim
 │       └── plugins-setup.lua
 └── plugin
     └── packer_compiled.lua
+```
